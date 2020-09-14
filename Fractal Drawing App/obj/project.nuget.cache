@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "MWKG/5JMQAJqeP6yafFc2iufd+/DKwyu2vKsT2djAqqdNQm0VFkJ/kZflGqyG5Wn3sH/qmYguubm04xSLGOi+Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\junio\\Desktop\\SE3\\Algoritmen en Datastructuren\\Huiswerk\\week 2\\Fractal Drawing App\\Fractal Drawing App\\Fractal Drawing App.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\junio\\.nuget\\packages\\microsoft.netcore.platforms\\3.1.0\\microsoft.netcore.platforms.3.1.0.nupkg.sha512",
+    "C:\\Users\\junio\\.nuget\\packages\\microsoft.win32.systemevents\\4.7.0\\microsoft.win32.systemevents.4.7.0.nupkg.sha512",
+    "C:\\Users\\junio\\.nuget\\packages\\system.drawing.common\\4.7.0\\system.drawing.common.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}

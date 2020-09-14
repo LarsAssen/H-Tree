@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30413.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Fractal Drawing App", "Fractal Drawing App\Fractal Drawing App.csproj", "{84BAB8F3-45EB-4981-BFC6-6CC11D9EC832}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Fractal H tree", "Fractal H tree\Fractal H tree.csproj", "{83F532E0-D7DC-479A-8FDF-29DCB8DFEC21}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{84BAB8F3-45EB-4981-BFC6-6CC11D9EC832}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{84BAB8F3-45EB-4981-BFC6-6CC11D9EC832}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{84BAB8F3-45EB-4981-BFC6-6CC11D9EC832}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{84BAB8F3-45EB-4981-BFC6-6CC11D9EC832}.Release|Any CPU.Build.0 = Release|Any CPU
+		{83F532E0-D7DC-479A-8FDF-29DCB8DFEC21}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{83F532E0-D7DC-479A-8FDF-29DCB8DFEC21}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{83F532E0-D7DC-479A-8FDF-29DCB8DFEC21}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{83F532E0-D7DC-479A-8FDF-29DCB8DFEC21}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0DBA9C90-79E8-49F8-ACBC-518A64454666}
+	EndGlobalSection
+EndGlobal

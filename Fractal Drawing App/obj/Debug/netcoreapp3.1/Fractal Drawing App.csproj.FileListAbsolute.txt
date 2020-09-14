@@ -1,0 +1,19 @@
+C:\Users\junio\Desktop\SE3\Algoritmen en Datastructuren\Huiswerk\week 2\Fractal Drawing App\Fractal Drawing App\bin\Debug\netcoreapp3.1\Fractal Drawing App.exe
+C:\Users\junio\Desktop\SE3\Algoritmen en Datastructuren\Huiswerk\week 2\Fractal Drawing App\Fractal Drawing App\bin\Debug\netcoreapp3.1\Fractal Drawing App.deps.json
+C:\Users\junio\Desktop\SE3\Algoritmen en Datastructuren\Huiswerk\week 2\Fractal Drawing App\Fractal Drawing App\bin\Debug\netcoreapp3.1\Fractal Drawing App.runtimeconfig.json
+C:\Users\junio\Desktop\SE3\Algoritmen en Datastructuren\Huiswerk\week 2\Fractal Drawing App\Fractal Drawing App\bin\Debug\netcoreapp3.1\Fractal Drawing App.runtimeconfig.dev.json
+C:\Users\junio\Desktop\SE3\Algoritmen en Datastructuren\Huiswerk\week 2\Fractal Drawing App\Fractal Drawing App\bin\Debug\netcoreapp3.1\Fractal Drawing App.dll
+C:\Users\junio\Desktop\SE3\Algoritmen en Datastructuren\Huiswerk\week 2\Fractal Drawing App\Fractal Drawing App\bin\Debug\netcoreapp3.1\Fractal Drawing App.pdb
+C:\Users\junio\Desktop\SE3\Algoritmen en Datastructuren\Huiswerk\week 2\Fractal Drawing App\Fractal Drawing App\obj\Debug\netcoreapp3.1\Fractal Drawing App.AssemblyInfoInputs.cache
+C:\Users\junio\Desktop\SE3\Algoritmen en Datastructuren\Huiswerk\week 2\Fractal Drawing App\Fractal Drawing App\obj\Debug\netcoreapp3.1\Fractal Drawing App.AssemblyInfo.cs
+C:\Users\junio\Desktop\SE3\Algoritmen en Datastructuren\Huiswerk\week 2\Fractal Drawing App\Fractal Drawing App\obj\Debug\netcoreapp3.1\Fractal Drawing App.dll
+C:\Users\junio\Desktop\SE3\Algoritmen en Datastructuren\Huiswerk\week 2\Fractal Drawing App\Fractal Drawing App\obj\Debug\netcoreapp3.1\Fractal Drawing App.pdb
+C:\Users\junio\Desktop\SE3\Algoritmen en Datastructuren\Huiswerk\week 2\Fractal Drawing App\Fractal Drawing App\obj\Debug\netcoreapp3.1\Fractal Drawing App.genruntimeconfig.cache
+C:\Users\junio\Desktop\SE3\Algoritmen en Datastructuren\Huiswerk\week 2\Fractal Drawing App\Fractal Drawing App\obj\Debug\netcoreapp3.1\Fractal Drawing App.csprojAssemblyReference.cache
+C:\Users\junio\Desktop\SE3\Algoritmen en Datastructuren\Huiswerk\week 2\Fractal Drawing App\Fractal Drawing App\bin\Debug\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+C:\Users\junio\Desktop\SE3\Algoritmen en Datastructuren\Huiswerk\week 2\Fractal Drawing App\Fractal Drawing App\bin\Debug\netcoreapp3.1\System.Drawing.Common.dll
+C:\Users\junio\Desktop\SE3\Algoritmen en Datastructuren\Huiswerk\week 2\Fractal Drawing App\Fractal Drawing App\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\junio\Desktop\SE3\Algoritmen en Datastructuren\Huiswerk\week 2\Fractal Drawing App\Fractal Drawing App\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\junio\Desktop\SE3\Algoritmen en Datastructuren\Huiswerk\week 2\Fractal Drawing App\Fractal Drawing App\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\junio\Desktop\SE3\Algoritmen en Datastructuren\Huiswerk\week 2\Fractal Drawing App\Fractal Drawing App\obj\Debug\netcoreapp3.1\Fractal Drawing App.csproj.CoreCompileInputs.cache
+C:\Users\junio\Desktop\SE3\Algoritmen en Datastructuren\Huiswerk\week 2\Fractal Drawing App\Fractal Drawing App\obj\Debug\netcoreapp3.1\Fractal Drawing App.csproj.CopyComplete

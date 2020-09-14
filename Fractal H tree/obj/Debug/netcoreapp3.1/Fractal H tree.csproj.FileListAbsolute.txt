@@ -1,0 +1,19 @@
+C:\Users\junio\Desktop\SE3\Algoritmen en Datastructuren\Huiswerk\week 2\Fractal Drawing App\Fractal H tree\bin\Debug\netcoreapp3.1\Fractal H tree.exe
+C:\Users\junio\Desktop\SE3\Algoritmen en Datastructuren\Huiswerk\week 2\Fractal Drawing App\Fractal H tree\bin\Debug\netcoreapp3.1\Fractal H tree.deps.json
+C:\Users\junio\Desktop\SE3\Algoritmen en Datastructuren\Huiswerk\week 2\Fractal Drawing App\Fractal H tree\bin\Debug\netcoreapp3.1\Fractal H tree.runtimeconfig.json
+C:\Users\junio\Desktop\SE3\Algoritmen en Datastructuren\Huiswerk\week 2\Fractal Drawing App\Fractal H tree\bin\Debug\netcoreapp3.1\Fractal H tree.runtimeconfig.dev.json
+C:\Users\junio\Desktop\SE3\Algoritmen en Datastructuren\Huiswerk\week 2\Fractal Drawing App\Fractal H tree\bin\Debug\netcoreapp3.1\Fractal H tree.dll
+C:\Users\junio\Desktop\SE3\Algoritmen en Datastructuren\Huiswerk\week 2\Fractal Drawing App\Fractal H tree\bin\Debug\netcoreapp3.1\Fractal H tree.pdb
+C:\Users\junio\Desktop\SE3\Algoritmen en Datastructuren\Huiswerk\week 2\Fractal Drawing App\Fractal H tree\obj\Debug\netcoreapp3.1\Fractal H tree.csprojAssemblyReference.cache
+C:\Users\junio\Desktop\SE3\Algoritmen en Datastructuren\Huiswerk\week 2\Fractal Drawing App\Fractal H tree\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+C:\Users\junio\Desktop\SE3\Algoritmen en Datastructuren\Huiswerk\week 2\Fractal Drawing App\Fractal H tree\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\junio\Desktop\SE3\Algoritmen en Datastructuren\Huiswerk\week 2\Fractal Drawing App\Fractal H tree\obj\Debug\netcoreapp3.1\Fractal H tree_MarkupCompile.cache
+C:\Users\junio\Desktop\SE3\Algoritmen en Datastructuren\Huiswerk\week 2\Fractal Drawing App\Fractal H tree\obj\Debug\netcoreapp3.1\Fractal H tree_MarkupCompile.lref
+C:\Users\junio\Desktop\SE3\Algoritmen en Datastructuren\Huiswerk\week 2\Fractal Drawing App\Fractal H tree\obj\Debug\netcoreapp3.1\MainWindow.baml
+C:\Users\junio\Desktop\SE3\Algoritmen en Datastructuren\Huiswerk\week 2\Fractal Drawing App\Fractal H tree\obj\Debug\netcoreapp3.1\Fractal H tree.g.resources
+C:\Users\junio\Desktop\SE3\Algoritmen en Datastructuren\Huiswerk\week 2\Fractal Drawing App\Fractal H tree\obj\Debug\netcoreapp3.1\Fractal H tree.AssemblyInfoInputs.cache
+C:\Users\junio\Desktop\SE3\Algoritmen en Datastructuren\Huiswerk\week 2\Fractal Drawing App\Fractal H tree\obj\Debug\netcoreapp3.1\Fractal H tree.AssemblyInfo.cs
+C:\Users\junio\Desktop\SE3\Algoritmen en Datastructuren\Huiswerk\week 2\Fractal Drawing App\Fractal H tree\obj\Debug\netcoreapp3.1\Fractal H tree.csproj.CoreCompileInputs.cache
+C:\Users\junio\Desktop\SE3\Algoritmen en Datastructuren\Huiswerk\week 2\Fractal Drawing App\Fractal H tree\obj\Debug\netcoreapp3.1\Fractal H tree.dll
+C:\Users\junio\Desktop\SE3\Algoritmen en Datastructuren\Huiswerk\week 2\Fractal Drawing App\Fractal H tree\obj\Debug\netcoreapp3.1\Fractal H tree.pdb
+C:\Users\junio\Desktop\SE3\Algoritmen en Datastructuren\Huiswerk\week 2\Fractal Drawing App\Fractal H tree\obj\Debug\netcoreapp3.1\Fractal H tree.genruntimeconfig.cache
